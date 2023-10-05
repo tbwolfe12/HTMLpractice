@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  border: 0;
+  padding: 0;
+}
+h1, p, #audio-player, #clipart  {
+    text-align: center;
+}
+ul {
+
+}
